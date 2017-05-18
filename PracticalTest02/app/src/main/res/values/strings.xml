@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="server">Server</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Start</string>
+    <string name="client">Client</string>
+    <string name="client_address">String</string>
+    <string name="client_port">Port</string>
+    <string name="city">City</string>
+    <string name="get_weather_forecast">Query</string>
+    <string-array name="information_types">
+
+        <item>temperature</item>
+
+        <item>wind_speed</item>
+
+        <item>condition</item>
+
+        <item>pressure</item>
+
+        <item>humidity</item>
+
+        <item>all</item>
+
+    </string-array>
+
+
+</resources>
